@@ -1,4 +1,6 @@
 ---
+classes:
+  role::yumrepo
 yumrepos:
   'el_6.5_products_x86_64':
     repository_dir : '/var/www/html/puppetrepo/el/6.5/products/x86_64/'
